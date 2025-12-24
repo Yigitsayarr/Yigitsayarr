@@ -2,7 +2,7 @@
 <h3 align="center">Mechatronics Engineer | Robotics & Automation
 Open to international collaboration
 Interested in robot arms, control, and simulation</h3>
-https://discord.gg/sjjYTqXqDW
+<h4 align="center">https://discord.gg/sjjYTqXqDW</h4>
 
 - 📫 How to reach me **yigitcnsyr@gmail.com**
 
